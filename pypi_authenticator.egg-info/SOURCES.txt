@@ -1,0 +1,7 @@
+README.md
+setup.py
+pypi_authenticator.egg-info/PKG-INFO
+pypi_authenticator.egg-info/SOURCES.txt
+pypi_authenticator.egg-info/dependency_links.txt
+pypi_authenticator.egg-info/requires.txt
+pypi_authenticator.egg-info/top_level.txt
